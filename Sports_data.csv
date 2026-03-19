@@ -1,0 +1,16 @@
+Match_ID,Date,Sport,Opponent,Score_For,Score_Against,Result,Match_Level,Duration
+1,10-08-2025,Table Tennis,City College A,11,7,Win,Inter-college,25
+2,12-08-2025,Table Tennis,State Academy B,9,11,Loss,State,30
+3,15-08-2025,Kho Kho,District Team C,15,10,Win,Inter-college,40
+4,18-08-2025,Table Tennis,City College D,11,6,Win,Inter-college,20
+5,20-08-2025,Kho Kho,State Team E,13,15,Loss,State,45
+6,25-08-2025,Table Tennis,Regional Club F,10,12,Loss,Inter-college,28
+7,28-08-2025,Kho Kho,University Team G,16,12,Win,Inter-college,42
+8,01-09-2025,Table Tennis,State Academy H,11,9,Win,State,27
+9,05-09-2025,Kho Kho,District Team I,14,11,Win,State,38
+10,08-09-2025,Table Tennis,Regional Club J,8,11,Loss,Inter-college,26
+11,04-09-2025,Table Tennis,City College A,11,7,Win,State,30
+12,04-09-2025,Table Tennis,State Academy B,9,11,Loss,State,31
+13,26-07-2025,Kho Kho,District Team C,15,10,Win,State,25
+14,14-09-2025,Table Tennis,City College D,11,6,Win,Inter-college,22
+15,11-08-2025,Kho Kho,State Team E,13,15,Loss,Inter-college,28
